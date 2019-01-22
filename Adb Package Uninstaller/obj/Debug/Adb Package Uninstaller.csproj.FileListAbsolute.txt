@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\Adb Package Uninstaller\Adb Package Uninstaller\bin\Debug\Adb Package Uninstaller.exe.config
+C:\Users\USER\source\repos\Adb Package Uninstaller\Adb Package Uninstaller\bin\Debug\Adb Package Uninstaller.exe
+C:\Users\USER\source\repos\Adb Package Uninstaller\Adb Package Uninstaller\bin\Debug\Adb Package Uninstaller.pdb
+C:\Users\USER\source\repos\Adb Package Uninstaller\Adb Package Uninstaller\obj\Debug\Adb Package Uninstaller.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Adb Package Uninstaller\Adb Package Uninstaller\obj\Debug\Adb_Package_Uninstaller.Form1.resources
+C:\Users\USER\source\repos\Adb Package Uninstaller\Adb Package Uninstaller\obj\Debug\Adb_Package_Uninstaller.Properties.Resources.resources
+C:\Users\USER\source\repos\Adb Package Uninstaller\Adb Package Uninstaller\obj\Debug\Adb Package Uninstaller.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Adb Package Uninstaller\Adb Package Uninstaller\obj\Debug\Adb Package Uninstaller.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Adb Package Uninstaller\Adb Package Uninstaller\obj\Debug\Adb Package Uninstaller.exe
+C:\Users\USER\source\repos\Adb Package Uninstaller\Adb Package Uninstaller\obj\Debug\Adb Package Uninstaller.pdb
